@@ -20,8 +20,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 
 - Create a website with multiple pages that link together
-- Style a page using CSS via an external stylesheet
-- Add images to a website to improve SEO
+- Add images to a website
 - Clearly articulate your skills and experience on a landing page
 - Provide customers or site visitors with important contact and social media information in a format they're accustomed to
 
@@ -37,15 +36,12 @@ For the first assignment, you will begin creating the beginnings of your first w
 - Link both pages together using `a` tag
 - Use a unique `title` and a single unique `h1` tag
 - Show images using `img` tags including unique `alt` attributes
-- Use an external CSS stylesheet to style your pages
-- Select at least 5 elements on the page and apply at least 5 different css properties (`font-size`, `color`, `font-family`, `background`, `text-decoration`) to these elements
 - Use at least 6 different HTML tags (`h1`, `h2`, `h3`, `h4`, `h5`, `h6`, `p`, `ul`, `ol`, `a`, `img`) on your pages
-- Follow naming conventions, maintain consistency across your .html and .css files
 - Indent nested elements to increase your code's readability
 
 #### Bonus
 
-- Experiment by adding additional HTML tags and CSS properties we did not cover in class - explore!
+- Experiment by adding additional HTML tags or add some CSS if you are feeling bold!
 
 
 <br>
@@ -56,18 +52,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 - NOTE: There is **no starter code** for this assignment (only starter text), but a **sample** solution is [provided](solution).  Students will build this assignment from scratch and should feel free to get creative with regard to layout, color, styling, etc.
 
-- Slides from [class 1](../01_html_basics/slides.md) and [class 2](../02_css_basics/slides.md).
-
-Here are examples of a simple "About" and "Portfolio" page that fulfill the assignment requirements:
-
-- Joe, the freelance developer's "about page":
-
-![Joe's About](solution/images/about_me_deliverable.png)
-
-- Joe, the freelance developer's "portfolio page":
-
-![Joe's Portfolio](solution/images/portfolio_deliverable.png)
-
+- Slides from [class 1](../01_html_basics/Slides_01.pdf)
 
 <br>
 
@@ -75,5 +60,6 @@ Here are examples of a simple "About" and "Portfolio" page that fulfill the assi
 
 ###Evaluation / Submission
 
-Students will create a new repository on GitHub called "homework-portfolio" and push their code to this new repository when they are ready to submit. The instructional team will grade each technical requirement and provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2).  The maximum possible score on this assignment is 16/16. 
-
+- Follow [these isntructions](http://www.macinstruct.com/node/159) to zip/ compress the folder containing your html files if you are on a Mac
+- or [these instructions](https://support.microsoft.com/en-us/help/14200/windows-compress-uncompress-zip-files) if you use Windows
+- Upload the zipped file to the #homework_submissions channel on Slack

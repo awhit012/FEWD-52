@@ -2,12 +2,8 @@
 
 ##Week 1 - The Basics
 
-This week is about leveling the playing field. 
+The first class is about leveling the playing field.
 
-There will be some students who find this week slow. But we want to make sure all students are at a basic level before moving on, as this will make the rest of the class go smoothly. Take this time to make sure students understand how the files in their text editor (i.e. Sublime Text, Text Wrangler, etc.) become the web page that is displayed in their browser window.
-
-![Joe's About](Assignment/solution/images/about_me_deliverable.png)
-
-![Joe's Portfolio](Assignment/solution/images/portfolio_deliverable.png)
+There will be some students who find it slow. But we want to make sure all students are at a basic level before moving on, as this will make the rest of the class go smoothly. Take this time to make sure students understand how the files in their text editor (i.e. Sublime Text, Atom, etc.) become the web page that is displayed in their browser window.
 
 * Homework: [Finish building](Assignment/README.md) your "About" and "Portfolio" pages.  

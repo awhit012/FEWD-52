@@ -1,4 +1,4 @@
-#FEWD Week #1: HTML/CSS Basics
+#FEWD Week #1: HTML Basics
 
 
 <br>

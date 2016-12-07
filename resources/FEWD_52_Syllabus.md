@@ -11,9 +11,9 @@ Learning Objectives:
 - Recognize the different roles and responsibilities in web development.
 - Apply and experiment with HTML tags.
 - Describe the DOM and draw a simple DOM tree.
-- Predict image paths and apply relative paths to <img> and <a> tags.
+- Predict image paths and apply relative paths to `<img>` and `<a>` tags.
 - Describe the DOM and draw a simple DOM tree.
-- Predict image paths and apply relative paths to <img> and <a> tags.
+- Predict image paths and apply relative paths to `<img>` and `<a>` tags.
 
 ## Week 2: CSS
 #### Lesson 2: CSS BASICS

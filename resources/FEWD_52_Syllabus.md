@@ -1,3 +1,5 @@
+![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+
 # Front End Web Development (FEWD)
 ### Dec 7th - Feb 27th Mondays and Wednesdays, 6:30 – 9:30pm
 ### Instructor: Alex White

@@ -10,7 +10,6 @@ Learning Objectives:
 - Articulate the role of HTML, CSS and JavaScript in front-end development.
 - Recognize the different roles and responsibilities in web development.
 - Apply and experiment with HTML tags.
-- Describe the DOM and draw a simple DOM tree.
 - Predict image paths and apply relative paths to `<img>` and `<a>` tags.
 - Describe the DOM and draw a simple DOM tree.
 - Predict image paths and apply relative paths to `<img>` and `<a>` tags.

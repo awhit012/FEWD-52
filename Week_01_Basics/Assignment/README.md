@@ -60,6 +60,6 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 ###Evaluation / Submission
 
-- Follow [these isntructions](http://www.macinstruct.com/node/159) to zip/ compress the folder containing your html files if you are on a Mac
+- Follow [these instructions](http://www.macinstruct.com/node/159) to zip/ compress the folder containing your html files if you are on a Mac
 - or [these instructions](https://support.microsoft.com/en-us/help/14200/windows-compress-uncompress-zip-files) if you use Windows
 - Upload the zipped file to the #homework_submissions channel on Slack

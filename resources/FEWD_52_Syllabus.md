@@ -30,11 +30,6 @@ Learning Objectives:
 - Identify when HTML5 structural elements should be used
 - Apply header, footer, sidebar, and multi-column layouts to build a web page.
 - Experiment and predict effects of floats and clearing CSS positioning.
-- Differentiate between block and inline elements
-- Identify when HTML5 structural elements should
-be used
-- Apply header, footer, sidebar, and multi-column layouts to build a web page.
-- Experiment and predict effects of floats and clearing CSS positioning.
 
 ## Week 3: Lab Week
 #### Lesson 4: Practice web development by transforming a design comp into a webpage.

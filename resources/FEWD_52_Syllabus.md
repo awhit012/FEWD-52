@@ -25,6 +25,7 @@ Learning Objectives:
 
 #### Lesson 3: BOX MODEL & INTRO TO LAYOUT
 Learning Objectives:
+- Use pseudo-selectors
 - Define CSS Box Model, and demonstrate the ability to properly manipulate the "box" around elements
 - Use display block and display inline
 - Use float and clear

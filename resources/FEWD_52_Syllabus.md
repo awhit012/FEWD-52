@@ -26,8 +26,8 @@ Learning Objectives:
 #### Lesson 3: BOX MODEL & INTRO TO LAYOUT
 Learning Objectives:
 - Define CSS Box Model, and demonstrate the ability to properly manipulate the "box" around elements
-- Differentiate between block and inline elements
-- Identify when HTML5 structural elements should be used
+- Use display block and display inline
+- Use float and clear
 - Apply header, footer, sidebar, and multi-column layouts to build a web page.
 - Experiment and predict effects of floats and clearing CSS positioning.
 

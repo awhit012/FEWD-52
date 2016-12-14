@@ -1,13 +1,28 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-color: #FAC7AC;
+	background-color: rgb(72, 209, 204);
 	color: #D53842;
 	text-align: center;
 }
 
 
 a {
-	color: #006A99;
+	color: #68D422;
 	text-decoration: none;
 	padding: 20px;
+	font-size: 10px !important;
+}
+
+img {
+	max-width: 60%;
+	border: 2px #D53842 solid;
+	opacity: .8;
+}
+
+.big_link {
+	font-size: 80px;
+}
+
+#resume_item {
+	color: red;
 }

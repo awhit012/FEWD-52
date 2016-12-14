@@ -1,0 +1,81 @@
+
+* {
+  /* #10. Add box-sizing: border-box; to everything */
+
+}
+
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+body {
+  font-family: 'Questrial', sans-serif;
+  color: #D16121;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2 {
+  font-family: 'Chicle', cursive;
+  text-transform: uppercase;
+  letter-spacing: .09em;
+}
+
+header, footer {
+  padding: 5px 20px;
+  border: 2px solid #D16121;
+  border-radius: 4px;
+  background: #D16121;
+  color: #fff;
+}
+
+aside img {
+	max-width: 100%;
+}
+
+.content {
+  background-color: #FCFBE3;
+  padding: 5px 20px;
+  margin: 10px 0;
+}
+
+/*----------------------------------------------
+  C O L U M N   L A Y O U T
+------------------------------------------------*/
+
+/*
+INSTRUCTIONS:
+STEPS 1 & 2 and 9 are in the index.html file & 
+step #10 is at the top of this file
+*/
+
+
+section {
+  /* #3. Give a width to each column*/
+
+
+  /* #4. Float each column to left*/
+
+
+  /* #9. Give this section a padding-right to add a little space between columns. */
+}
+
+
+aside {
+  /* #5. Give a width to each column*/
+
+
+  /* #6. Float each column to left*/
+
+
+}
+
+
+footer {
+
+  /* #7. Clear anything underneath your columns i.e. a footer */
+  
+}

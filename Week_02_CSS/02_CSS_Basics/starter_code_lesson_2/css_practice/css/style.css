@@ -1,6 +1,25 @@
 /*------ PART 1 -------------------------*/
 /* 1. Change the background-color for the body to #1695A3*/
+body {
+	background-color: #1695A3;
+	color: #FFFFFF;
+}
 
+p {
+	color: #EB7F00;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 80px;
+}
+
+h3 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+}
 
 /* 2. Change the text color for the body to #FFFFFF*/
 

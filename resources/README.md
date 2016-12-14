@@ -14,3 +14,8 @@
 1. [Palleton Online Color Scheme tool](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 1. [HTML Validator](https://validator.w3.org/#validate_by_input)
 1. [CSS Validator](https://validator.w3.org/#validate_by_input)
+1. [Adding a Favicon](http://www.dwuser.com/education/content/quick-tip-adding-a-favicon-to-your-website/)
+1. [Using Web Fonts](https://developers.google.com/fonts/docs/getting_started)
+1. [Pseudo Class Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+1. [Nth Child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
+1. [Box Model Visualization](http://codepen.io/carolineartz/full/ogVXZj/)

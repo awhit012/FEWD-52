@@ -7,9 +7,13 @@
 
 Last week we covered:
 1. External Style Sheets
+
 1. Color principles: RGB, RGBA, hexadecimal color.
+
 1. Select nested elements to apply styling
+
 1. Differentiate between classes and IDs and apply best practices when implementing.
+
 1. Apply and explain CSS “cascade” including: importance, specificity and inheritance.
 
 ### Agenda:

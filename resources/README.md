@@ -20,3 +20,8 @@
 1. [Nth Child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
 1. [Box Model Visualization](http://codepen.io/carolineartz/full/ogVXZj/)
 1. [All about floats](https://css-tricks.com/all-about-floats/)
+
+
+## Week 3
+1. [Floats and Clears Explained](https://www.youtube.com/watch?v=xFGBNv2KeVU)
+2. Accompanying [Code](http://codepen.io/devtips/pen/gbVXMP)

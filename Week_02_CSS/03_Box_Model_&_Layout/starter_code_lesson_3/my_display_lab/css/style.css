@@ -11,12 +11,9 @@ ul {
 	padding-left: 0;
 }
 
-#one li {
-	background-color: yellow;
-	list-style: none;
-	border: 1px solid red;
-	padding: 10px;
-}
+
+
+
 
 /*---------------------------------------------------------------------
     P L A C E   Y O U R   C S S   B E L O W   T H I S   C O M M E N T
@@ -33,13 +30,25 @@ HINT: Your CSS selector for #1 is provided below (we want to style the list item
 of the element that has a class of .one.)
 */
 .one li {
-
+	background-color: yellow;
+	list-style: none;
+	border: 1px solid red;
+	padding: 10px;
+	display: inline-block;
 }
 
 
 /*2. Update the display property of the anchors in Part 2 so that each item is on its own line.*/
 
-
-
+.two a {
+	display: inline-block;
+}
 
 /*3. Update the display property in Part 3 to hide the image of the cat.*/
+
+.three img {
+	display: none;
+}
+
+
+

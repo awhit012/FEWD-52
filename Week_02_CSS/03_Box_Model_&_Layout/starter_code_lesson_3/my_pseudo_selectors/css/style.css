@@ -9,8 +9,29 @@ body {
 
 /* Step 1: First make all the anchors on the page #FFA7C0 */
 
+a {
+	color: #FFA7C0;
+}
 
 /* Step 2: Then make the anchors within the header nav #D16121 */
+
+header nav a {
+	color: #D16121;
+}
+
+header nav a:hover {
+	color: purple;
+	font-size: 22px;
+}
+
+footer nav a {
+	color: #FFE540;
+}
+
+footer nav a:last-child {
+	font-weight: bold;
+}
+
 
 
 /* Step 3: Lastly, make the anchors in the footer nav #FFE540 */

@@ -8,6 +8,8 @@
 
 ## Intro to Bootstrap
 
+![](http://getbootstrap.com/examples/screenshots/theme.jpg)
+
 * [Bootstrap](http://getbootstrap.com/) is a **front-end framework** created by a small team of developers at Twitter and maintained by a much larger community of contributors.
 * The framework consists of one main CSS file, an optional theme CSS file, and a main JS file (which we'll get to later).
 
@@ -30,6 +32,8 @@ Bootstrap comes with a ton of features, including:
 * [NBA.com](http://www.nba.com/)
 * [Bloomberg](http://www.bloomberg.com/)
 * [CodeAcademy](https://www.codecademy.com/)
+
+![](https://autobiologbook.files.wordpress.com/2013/05/codeacademy.jpg)
 
 ## What is Class-based CSS?
 
@@ -103,6 +107,8 @@ Here's an example of a two-column layout that spans the width of the page.  Noti
 For other examples, check out the [Bootstrap docs](http://getbootstrap.com/css/#grid)  
 
 ## Breakpoints
+
+![breakpoints](http://www.tutorialrepublic.com/lib/images/grid-system-illustration.jpg)
 * The way that Bootstrap works is to dynamically reduce column size according to the window size.
 * To be mobile (and tablet!) -friendly, the columns will break into a stack layout after a minimum width is detected.
 * The breakpoints you can select in your columns control at which point this happens.
@@ -138,10 +144,13 @@ Here is an example of nesting columns (putting one row inside another)
  </div>
 ```
 
-What would this actually look like?  Demo
+What would this actually look like?  [Demo](demo/before-bootstrap/index.html)
 
 
 #### Typography
+
+![typography](http://cdn.appstorm.net/web.appstorm.net/files/2011/08/Bootstrap-620x361.png)
+
 For a complete list: [Bootstrap Typography classes](http://getbootstrap.com/css/#type)
 
 To align text, use these classes.  
@@ -165,9 +174,13 @@ More useful typography classes...
 
 
 #### Icons
+![icons](http://azmind.com/wp-content/uploads/2015/01/Typicons-Bootstrap-Font-Icons.jpg)
+
 Bootstrap comes with a set of icons that can be included in your page using the `<i></i>` tag. Check out these icons [here](http://getbootstrap.com/components/#glyphicons)
 
 #### Buttons
+![buttons](https://i.stack.imgur.com/TdX9B.jpg)
+
 Bootstrap provides a wide selection of button sizes and colors.  Button classes can be applied not just to `<button>` elements, but also `<a>` and `<input>` elements
 
 Sometimes you need to provide multiple classes to an element in order for Bootstrap to style it.  The button classes are an example of this:
@@ -189,4 +202,6 @@ Sometimes you need to provide multiple classes to an element in order for Bootst
 
 
 #### Images
+![thumbnail](https://www.tutorialspoint.com/bootstrap/images/customthumbnail_demo.jpg)
+
 Bootstrap helps you format images using `class="img-rounded"` (rounds the corners), `class="img-circle"` (makes the image a circle) and `class="img-thumbnail"` (adds a border). You can also add a `class="img-responsive"` to your image to make it scale well when the screen size changes (this sets its max-width to 100% of its parent element and the height to auto for maintaining aspect)

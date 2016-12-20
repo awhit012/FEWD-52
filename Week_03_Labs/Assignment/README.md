@@ -1,6 +1,20 @@
 # FEWD Week #3: CSS Lab & Bootstrap
 
 ---
+## Part 1:
+
+Over the break do the following to get started on your Final Project:
+
+- Take a look at the [Final Project](https://github.com/awhit012/FEWD-52/blob/master/resources/final_project.md) requirements
+- Get inspiration from the [GA FEWD Gallery](https://gallery.generalassemb.ly/FEWD)
+- Write down 3-5 ideas for your project
+- Create a [Wireframe](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399) for your favorite idea. This guide offers a lot of fancy tools, but there is nothing wrong with pencil, paper and a ruler. 
+
+---
+
+## Part 2: 
+
+Bootstrap Cont. 
 
 ### Description
 

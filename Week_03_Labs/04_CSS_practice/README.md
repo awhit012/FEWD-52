@@ -10,7 +10,6 @@ Last week we covered:
 - Display inline, block, inline-block
 - Floats
 - Clears
-**(Some of the most difficult and confusing parts of CSS)**
 
 #### Inline:
 

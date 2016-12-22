@@ -21,7 +21,7 @@ Bootstrap Cont.
 
 For the third assignment, you will continue working on Bootstrap boilerplate. Today in class you made the columns responsive with a breakpoint! Over the weekend you are going to make this your own.
 
-  *suggestion: White text on color photo background. If photo is to light, make the background black, and give it a .8 opacity*
+  *suggestion: White text on color photo background. If photo is to light, make the background black, and give the image opacity*
 
 Steps:
 1. Study the HTML. What is making the Learn More button blue? What is making the Sign In button Green?

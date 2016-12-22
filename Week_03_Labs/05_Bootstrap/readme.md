@@ -66,7 +66,7 @@ A site designed with RWD adapts the layout to the viewing environment by using f
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
 
 
-## Responsive Grid System (aka Columns of Craziness)
+## Responsive Grid System
 * Columns are written in the following format as a class attribute: `col-(breakpoint)-(offset)`
 * For example: `col-sm-4`
 * Columns are often wrapped into an element with a class of `row` or `container`.

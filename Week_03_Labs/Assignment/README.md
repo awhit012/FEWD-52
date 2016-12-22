@@ -63,6 +63,7 @@ Steps:
 #### Bonus
 
 - Look into bootstraps other features and implement them as you please.
+
 - Include the JS files and jQuery in your index.html and get the dropdown menu to work!
 ---
 

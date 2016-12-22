@@ -9,6 +9,7 @@ Over the break do the following to get started on your Final Project:
 - Get inspiration from the [GA FEWD Gallery](https://gallery.generalassemb.ly/FEWD)
 - Write down 3-5 ideas for your project
 - Create a [Wireframe](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399) for your favorite idea. This guide offers a lot of fancy tools, but there is nothing wrong with pencil, paper and a ruler. 
+**note: this needn't be a 'hi def' wireframe**
 
 ---
 

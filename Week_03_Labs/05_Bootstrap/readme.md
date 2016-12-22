@@ -71,6 +71,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
 * Columns are written in the following format as a class attribute: `col-(breakpoint)-(width-in-columns)`
 * For example: `col-sm-4`
 * Columns are often wrapped into an element with a class of `row` or `container`.
+* You can offset a column (move it to the right on the page) by using `.offset-md-3`
 
 #### Start with a container
 To ensure all your Bootstrap styles behave properly, always put your content inside an element with a class "container" (usually `<div class="container">`). This will center your content and leave a small margin on the sides of the page. If you would like to use the full width of the screen (no margin) use `class="container-fluid"`

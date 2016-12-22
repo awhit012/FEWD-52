@@ -26,3 +26,4 @@
 1. [Floats and Clears Explained](https://www.youtube.com/watch?v=xFGBNv2KeVU)
 2. Accompanying [Code](http://codepen.io/devtips/pen/gbVXMP)
 3. [Bootstrap Grid System](https://v4-alpha.getbootstrap.com/layout/grid/)
+4. [Boostrap CSS docs](http://getbootstrap.com/css/)

@@ -67,7 +67,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)
 
 
 ## Responsive Grid System
-* Columns are written in the following format as a class attribute: `col-(breakpoint)-(offset)`
+* The page is divided into 12 columns of equal width
+* Columns are written in the following format as a class attribute: `col-(breakpoint)-(width-in-columns)`
 * For example: `col-sm-4`
 * Columns are often wrapped into an element with a class of `row` or `container`.
 

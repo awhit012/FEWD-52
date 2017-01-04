@@ -87,3 +87,17 @@ All of that CSS for multiple breakpoints in one file can get pretty cluttered! L
 ```html
 <link rel="stylesheet" media="screen and (max-width: 750px)" href="css/tablet.css" />
 ```
+
+
+## In Class Lab:
+Let's keep building on our Bootstrap projects from over the break.
+
+In this lab we want to:
+
+1. Create a new CSS page that only gets loaded when the screen is less than 750px, but greater than 320px
+2. Add some styling to that page. Can you make the change improve the design of your page?
+
+Tips on improving design through media queries:
+  - Make an icon appear when there is enough room, but disappear when there isn't enough room
+  - Increase or decrease font-size
+  - Read up on `ems` [here](https://css-tricks.com/why-ems/) to take advantage of relative units of measure 

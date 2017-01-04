@@ -29,3 +29,11 @@
 4. [Boostrap CSS docs](http://getbootstrap.com/css/)
 5. [Wireframe Guide](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
 6. [FEWD Final Project Gallery](https://gallery.generalassemb.ly/FEWD)
+
+## Week 4
+1. [Media query docs @Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+2. [Examples of layouts using media queries](http://mediaqueri.es/)
+3. [Media Queries How to Blog](https://css-tricks.com/css-media-queries/)
+4. [Brad Frost's enormous set of resources on Responsive Design](http://bradfrost.github.io/this-is-responsive/index.html)
+5. [Responsive Typography Blog](https://zellwk.com/blog/responsive-typography/)
+

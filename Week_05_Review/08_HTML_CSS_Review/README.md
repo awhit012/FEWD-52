@@ -3,7 +3,7 @@
 # REVIEW
 
 ## HTML
-document structure tags
+- document structure tags
   - h1
   - div
   - span

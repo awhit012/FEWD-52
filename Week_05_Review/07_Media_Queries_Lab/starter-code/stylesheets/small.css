@@ -1,0 +1,10 @@
+@media only screen and (max-width: 480px) {
+	header nav > ul > li:nth-child(1) {
+		text-align: center;
+		padding: 15px 0;
+	}
+
+	header nav > ul > li:nth-child(1) h1 {
+		font-size: 30px;
+	}
+}

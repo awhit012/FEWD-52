@@ -4,8 +4,9 @@ body {
 }
 
 header, main {
-  width: 960px;
+  width: 100%;
 }
+
 
 /* HEADER */
 
@@ -70,4 +71,11 @@ main .column:nth-child(3) h2 { background: rgb(0, 174, 255); }
 
 main .column p {
   padding: 15px;
+  font-size: 1.5em;
+}
+
+main .column {
+  width: 33%;
+  float: left;
+  min-width: 320px;
 }

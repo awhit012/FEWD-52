@@ -1,0 +1,131 @@
+Yara:
+
+We used two methods for changing the value of a variable in the lessons - we changed an existing value and also created a new value on a new line. Are there different use cases for each of these? Is one better than the other?
+
+LETS DO SOME EXAMPLES
+
+What are the most common features enabled by Javascript & how has this evolved?
+
+Let's look at JavaScript in one pic: https://coodict.github.io/javascript-in-one-pic/js%20in%20one%20pic.png
+
+EcmaScript is the 'standardized language' that we call JS.
+ES3 and before was focused only on DOM manipulation and simple tasks, it lacked a lot of powerful features of a real programming language
+ES5 made it a 'real' programming language by adding several more powerful capabilities
+ES6 (that new new) added classes for easier Object Oriented programming, and a cleaner syntax
+
+What are some limitations of Javascript?
+  - JavaScript doesn't have any multithreading or multiprocessor capabilities.
+  - The language is weakly typed. It changes the types dynamically and that can create confusion and generally leads to bugs. One case is when manipulating numbers and strings.
+
+Jeffrey
+
+  1. If you forget to pass an arguments of one function through another what is the difference between 'undefined' and the code not running at all
+  Let's demonstrate this
+
+  2. In what cases would 'if then' be more useful than  'switch + multiple cases'
+
+  From George:
+
+  if/else statements are more useful when  you want to check for a condition (one set of code runs if the condition is true, another set of code runs if the condition is false). Switch statements are better for checking multiple cases. A switch statement starts with a variable called a switch value, each case indicates a possible value for this variable and the code that should run if the variable matches the value (or a default if there is no match). With a series of if statements, they are all checked even if a match has been found (so it performs more slowly than switch).
+  [11:52]  (Pages 162 - 165, JavaScript & JQuery, by Jon Duckett).
+
+  3. How often does changing a var in a functional scope screw up it corresponding global scope var
+
+  Lets demonstrate this
+
+Vitor
+
+  1 - Is it always better to break down each task into individual functions even though you can get it done with less code lines/functions? Will this have any impact to the speed of the program? In a job interview, should I focus on getting the result as quickly as possible (let’s say, using a single function) or break it down each task in a separate function?
+
+  Love this question!
+  Sandi Metz's "Rules" include: No more than 5 lines per function
+  https://robots.thoughtbot.com/sandi-metz-rules-for-developers
+
+  Smaller methods are:
+    - encapsulating
+    - self-documenting
+    - easier to read
+
+  If making it even smaller makes it harder to read, don't do it.
+  Practice will help you make increasingly informed decisions.
+
+
+  2 - This may be beyond the CodeAcademy 1-3 tutorials. I can select an element by id with document.getElementById(“Id_Name”)… however, in order to select “classes”, I have to use document.getElementsByClass(“Class_Name”) but it won’t work unless I do a loop to create an array with all the elements that have this specific class. How do I code a loop to create an array?
+
+  getElementsByClass RETURNS an array. Even if there is only ONE or NONE elements of that class.
+  You would code a loop to ITERATE over the array. There are a few ways to do this, like a FOR loop. You'll learn that soon.
+
+  3 - What is hoisting in Javascript?
+    From George:
+
+      Hoisting: each time a script enters a new execution context, there are two phases of activity: prepare and execute. The preparation phase is often described as taking all of the variables and functions and "hoisting" them to the top of the execution context. Each execution context creates its own variables object. This object contains details of all the variables, functions, and parameters for that execution context. (Page 456 JavaScript & JQuery, Jon Duckett)
+
+George
+1. Logical operators: perhaps a stupid question, but how do you make this || (the two vertical lines for either can be true... I only copy and pasted those here)?
+
+SHIFT + \
+
+2. Logical operators: Can you give an example of ! (the opposite of what it really is) and !== (these should not be equal to each other)?
+
+  var input = document.getElementByID('form-input');
+
+  if (input !== '') {
+    doSomething(input)
+  }
+
+  function toggle(value) {
+    value = !value
+  }
+
+3. <script> : What is the most ideal location for <script> tags (in terms of page loading speed): in the head, in the page, before the closing </body> tag... and why?
+
+  It doesn't make much difference in reality, because the site won't truly function until everything has loaded. However, it will APEAR to load faster if you put it just before the closing body tag, because the html and CSS will load first and be visible to the viewer
+
+
+Sofia
+1.  When is the appropriate time to use console.log and document.write, I am confused about the structure of JS elements
+
+  console.log() writes to the console and is used for debugging and development. document.write() writes to the HTML and changes the page for the user.
+
+2.  when to use function verses var
+
+  let's talk about it!
+
+Ashley
+
+1. I'm confused about overriding variables. How and why does the variable get overridden when you add a new string to the variable
+
+  Let's demonstrate
+
+2. Why would you use the "!" symbol to make something opposite of what it is.
+
+  toggling something. lets demonstrate
+
+3. Why do I need to write an else if statement for a variable that is listed as an if statement already?
+
+  (Corresponding photos attached)
+  You are totally right, you wouldn't, this is a terrible example.
+
+David
+
+1. What are the 3 essential data types in JavaScript?
+
+The latest ECMAScript standard defines seven data types:
+
+  Six data types that are primitives:
+    Boolean
+    Null
+    Undefined
+    Number
+    String
+    Symbol (new in ECMAScript 6)
+  and Object
+
+2. Making decisions with code is called what?
+
+  If I understand the question, its called Control Flow
+
+3. What code do we use to check if two things equal each other?
+  === or ==
+
+    Follow up question: What is the difference? 

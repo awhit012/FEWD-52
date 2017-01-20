@@ -2,31 +2,53 @@
 
 # Homework 5
 
-For this weekend's assignment you are going to take pseudo code for Rock Paper Scissors and turn it into JavaScript!
+## JavaScript practice
 
-Using the Starer Code this will create a functioning Rock Paper Scissors game in the browser!
+This homework has two parts, a pseudo code part and a JavaScript part.
 
-The current code does all of the UI layer - it provides buttons to select rock, paper, or scissors and display that to the screen.
+Take advantage of the starter pseudo code and starter JS.
 
-It also has the computer pick a random one to play against you.
+### The problem:
 
-Your job is to fill in the `calculateWinner` function, and display the winner to the screen. You will need to change the HTML and write JavaScript to complete this.
+FIZZBUZZ! Fizzbuzz is a common interview question for Jr. Developers.
 
-You can write more JavaScript other than that function, as well as changing the other functions if you wish. 
+The questions is this:
 
-You will also continue work on your Final Project.
-Spend an 1-1.5 hours working on HTML and CSS for your final project.
+Write me a method that prints to the console (think console.log()) the numbers 1-99, with a few caveats.
 
-## Deliverables
+1. If the number is divisible by 3, print "FIZZ" instead of the number.
+2. If the number is divisible by 5, print "BUZZ" instead of the number.
+3. If the number is divisible by 3 & 5, prin "FIZZBUZZ" instead of the number.
 
-1. Slack me the whole folder of your assignment. I should be able to open the index.html page in my browser and play
+Sample output:
 
-## Bonus
-- Be able to play more than one round without refreshing the page
-- Be able to play best out of three
-- Keep track of and display consecutive games won
+1
+2
+FIZZ
+4
+BUZZ
+FIZZ
+7
+8
+FIZZ
+BUZZ
+11
+FIZZ
+13
+14
+FIZZBUZZ
+16
+...
 
-## Super Bonus
-- Research LocalStorage and use it to store consecutive games won so it stays on refresh!
+### Deliverables
+1. Pseudo Code of this problem - this means not writing javascript syntax and writing the logic in plain english
+2. JavaScript code.
 
-Have a great weekend!
+### Tips
+- Break the problem down into simpler problems. The first part of this is writing a function that prints the numbers 1-99. I've written this part for you in Pseudo Code AND JavaScript in the starter code.  What would the second step be?
+
+- Check out the [remainder (modulo)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators) oporator in JavaScript.
+
+- Check out [for loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+
+- To run your code, copy and paste it into the console tab of the Chrome Dev Tools window.

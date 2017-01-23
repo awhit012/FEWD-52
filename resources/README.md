@@ -37,3 +37,12 @@
 4. [Brad Frost's enormous set of resources on Responsive Design](http://bradfrost.github.io/this-is-responsive/index.html)
 5. [Responsive Typography Blog](https://zellwk.com/blog/responsive-typography/)
 
+## Week 5
+1. [JavaScript DOCS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+2. [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+3. [Code Academy JavaScript Track](https://www.codecademy.com/learn/learn-javascript)
+4. [JavaScript in one Image](https://coodict.github.io/javascript-in-one-pic/js%20in%20one%20pic.png)
+
+## Week 6
+1. [jQuery Cheat Sheet][../Week_7_jQuery_&_JS/10_jQuery/jquery_cheat_sheet.pdf]
+2. [jQuery DOCS](http://api.jquery.com/)

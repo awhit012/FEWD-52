@@ -44,5 +44,5 @@
 4. [JavaScript in one Image](https://coodict.github.io/javascript-in-one-pic/js%20in%20one%20pic.png)
 
 ## Week 6
-1. [jQuery Cheat Sheet][../Week_7_jQuery_&_JS/10_jQuery/jquery_cheat_sheet.pdf]
+1. [jQuery Cheat Sheet](../Week_7_jQuery_&_JS/10_jQuery/jquery_cheat_sheet.pdf)
 2. [jQuery DOCS](http://api.jquery.com/)

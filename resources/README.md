@@ -46,3 +46,4 @@
 ## Week 6
 1. [jQuery Cheat Sheet](../Week_7_jQuery_&_JS/10_jQuery/jquery_cheat_sheet.pdf)
 2. [jQuery DOCS](http://api.jquery.com/)
+3. [JavaScript Cheat Sheet](http://saraheholden.com/fewd51/classes/week_6/cheat_sheet_lesson_11.pdf)

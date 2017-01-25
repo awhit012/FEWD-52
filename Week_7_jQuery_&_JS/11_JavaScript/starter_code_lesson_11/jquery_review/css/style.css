@@ -1,0 +1,55 @@
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+ box-sizing: border-box; /* IE */
+}
+
+body {
+  text-align: center;
+  height: 4000px;
+  padding: 30px;
+}
+
+div {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: #EC4945;
+  border-radius: 50%;
+}
+
+button {
+  border: none;
+  background-color: #6AF5E3;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+
+.square {
+  border-radius: 5px;
+  background-color: #FFA7C0;
+  display: block;
+  margin: 40px auto;
+  /* Here this transition will make sure that any properties that are changed animate. */
+  transition: all .3s ease-in-out
+}
+
+/* Step 1: Take a look at the code below to see what styles will apply when the .highlight class is added to an element.*/
+.highlight {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  background-color: #FF3803;
+  width: 400px;
+  height: 400px;
+}
+
+
+
+
+

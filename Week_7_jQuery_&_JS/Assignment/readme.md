@@ -1,10 +1,21 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-# Homework 6: Functions Lab
+# Homework 6
 
-## Introduction
+This weeks assignment is twofold:
 
-This lab provides an opportunity to practice implementing some real-world functions. If you [pair program](https://en.wikipedia.org/wiki/Pair_programming), we recommend [screen sharing](http://osxdaily.com/2012/10/10/remote-control-mac-screen-sharing-os-x/) and alternating roles as a "driver" and "navigator" after each step.
+## Final Project
+
+Please continue working on the HTML and CSS of your final project. 
+
+#### Deliverables
+
+Zip the directory your final project is in and submit it to the #homework_submission Slack channel
+
+## Functions Lab
+
+
+This lab provides an opportunity to practice implementing some real-world functions.
 
 ## Exercise
 

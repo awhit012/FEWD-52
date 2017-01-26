@@ -47,3 +47,7 @@
 1. [jQuery Cheat Sheet](../Week_7_jQuery_&_JS/10_jQuery/jquery_cheat_sheet.pdf)
 2. [jQuery DOCS](http://api.jquery.com/)
 3. [JavaScript Cheat Sheet](http://saraheholden.com/fewd51/classes/week_6/cheat_sheet_lesson_11.pdf)
+4. [JavaScript Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+5. [JavaScript Array Includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+6. [jQuery each](http://api.jquery.com/jquery.each/)
+7. [arguments.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/length)

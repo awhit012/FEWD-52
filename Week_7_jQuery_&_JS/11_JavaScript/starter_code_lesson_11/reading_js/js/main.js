@@ -8,7 +8,7 @@
 // Try updating the code on line 11 to var score = 90;  Now which message will get added to the page? Check in your browser.
 
 
-var score = 105;
+var score = 95;
 var bonus = 50;
 var totalScore = 0;
 

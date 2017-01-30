@@ -33,49 +33,45 @@ Learning Objectives:
 - Experiment and predict effects of floats and clearing CSS positioning.
 
 ## Week 3: Lab Week
-#### Lesson 4: Practice web development by transforming a design comp into a webpage.
-#### Lesson 5: Practice web development by transforming a design comp into a webpage.
+#### Lesson 4: CSS Practice
+#### Lesson 5: Bootstrap
 
 ## Week 4: RESPONSIVE WEB PAGES
-#### Lesson 6: RESPONSIVE BASICS
+#### Lesson 6: Media Queries
 Learning Objectives:
-- Describe responsive design.
 - Know the difference between fluid, fixed and responsive layouts
 - Apply media queries to achieve a responsive layout.
 
+## Week 5: INTRO TO PROGRAMMING
 #### Lesson 7: RESPONSIVE LAB
 Learning Objectives:
 - Analyze a web page in order to be able to redesign it responsively.
 - Practice using media queries for responsive design.
 
-## Week 5: INTRO TO PROGRAMMING
-#### Lesson 8: PROGRAMMING BASICS
+#### Lesson 8: HTML & CSS REVIEW 
+- Review all content covered so far
+
+## Week 6: JavaScript BASICS
+
+#### Lesson 9: PROGRAMMING BASICS
 Learning Objectives:
 - Practice programmatic thinking by writing pseudo code to solve a basic problem.
 - Define web site behavior and the practical uses of JavaScript.
 - Predict DOM output / changes by reading JS code.
 
-#### Lesson 9: jQuery BASICS
-Learning Objectives:
+## Week 7: jQuery and JavaScript
+#### Lesson 10: jQuery and DOM Manipulation 
 - Differentiate between jQuery and JavaScript, describe benefits of using them.
 - Recognize jQuery syntax
 - Use selectors and jQuery functions to effectively manipulate the DOM.
 
-
-## Week 6: JavaScript BASICS
-#### Lesson 10: JS (Variables, Conditionals)
-Learning Objectives:
+#### Lesson 11: JavaScript Data Types and Functions
 - Define variables and identify best cases to use them.
 - Differentiate between strings, integers and floats.
 - Apply conditionals to change the program's control flow
+- Write custom functions to encapsulate logic
 
-#### Lesson 11: JS (functions)
-Learning Objectives:
-- Describe the concept of "this" as it applies within JavaScript functions
-- Apply programming skills to add interactions to a page
-
-
-## Week 7: JavaScript and jQuery Practice + Forms
+## Week 8: JavaScript and jQuery Practice + Forms
 #### Lesson 12: Intermediate jQuery, DOM manipulation Lab
 Learning Objectives:
 - Practice using jQuery to manipulate the DOM
@@ -87,7 +83,7 @@ Learning Objectives:
 - Use JavaScript and jQuery to process input and manipulate the DOM to give feedback to user
 
 
-## Week 8: ANIMATION & LAB
+## Week 9: ANIMATION & LAB
 #### Lesson 14: ANIMATIONS
 Learning Objectives:
 - Familiarity with how animations and transitions can be used in CSS
@@ -97,14 +93,23 @@ Learning Objectives:
 Learning Objectives:
 - In-class time to work on final project.
 
-## Week 9: AJAX, APIS & LAB
-#### Lesson 16: AJAX & APIS
-- Use $.ajax to GET data from OMDB API
-- Use jQuery to display that data on the page
+## Week 10: ADVANCED CONCEPTS 1
+#### Lesson 16: TODO LIST LAB
+- Bringing together concepts of DOM manipulation and forms you will
+- build a functioning todo list app
 
 #### Lesson 17: FINAL PROJECT LAB
 Learning Objectives:
 - In-class time to work on final project.
 
-## Week 10: FINAL PROJECTS
+## Week 11: ADVANCED CONCEPTS 2
+#### Lesson 18: AJAX & APIS
+- Use $.ajax to GET data from OMDB API
+- Use jQuery to display that data on the page
+#### Lesson 19: FINAL PROJECT LAB
+Learning Objectives:
+- In-class time to work on final project.
+
+
+## Week 12: FINAL PROJECTS
 #### Lesson 20: PRESENTATIONS

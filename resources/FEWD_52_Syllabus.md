@@ -106,6 +106,7 @@ Learning Objectives:
 #### Lesson 18: AJAX & APIS
 - Use $.ajax to GET data from OMDB API
 - Use jQuery to display that data on the page
+
 #### Lesson 19: FINAL PROJECT LAB
 Learning Objectives:
 - In-class time to work on final project.

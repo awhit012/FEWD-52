@@ -75,41 +75,36 @@ Learning Objectives:
 - Apply programming skills to add interactions to a page
 
 
-## Week 7: JavaScript CONTINUED
-#### Lesson 12: JS (Variables, Conditionals)
+## Week 7: JavaScript and jQuery Practice + Forms
+#### Lesson 12: Intermediate jQuery, DOM manipulation Lab
 Learning Objectives:
-- Define variables and identify best cases to use them.
-- Differentiate between strings, integers and floats.
-- Apply conditionals to change the program's control flow
+- Practice using jQuery to manipulate the DOM
+- Practice using more complex JavaScript data structures
 
-#### Lesson 13: JS (functions)
+#### Lesson 13: Forms
 Learning Objectives:
-- Describe the concept of "this" as it applies within JavaScript functions
-- Apply programming skills to add interactions to a page
+- Use forms to get user Input
+- Use JavaScript and jQuery to process input and manipulate the DOM to give feedback to user
 
 
 ## Week 8: ANIMATION & LAB
-#### Lesson 14: ANIMATION & ADVANCED CSS POSITIONING
+#### Lesson 14: ANIMATIONS
 Learning Objectives:
-- Identify and differentiate between different CSS positioning techniques
 - Familiarity with how animations and transitions can be used in CSS
-- Understand how animation can still be controlled using JS
+- Understand how animation can be controlled using JS
 
 #### Lesson 15: FINAL PROJECT LAB
 Learning Objectives:
 - In-class time to work on final project.
 
-## Week 9: FORMS and TBD
-#### Lesson 16: FORM BASICS:
-- Be able to differentiate the different types of inputs and why/where we would use each
-- Explain how to group elements by name.
+## Week 9: AJAX, APIS & LAB
+#### Lesson 16: AJAX & APIS
+- Use $.ajax to GET data from OMDB API
+- Use jQuery to display that data on the page
 
-#### Lesson 17: TBD
+#### Lesson 17: FINAL PROJECT LAB
 Learning Objectives:
-- tbd
-
-## Week 10: FINAL PROJECTS
-#### Lesson 16:  FINAL PROJECT LAB
 - In-class time to work on final project.
 
-#### Lesson 17: PRESENTATIONS
+## Week 10: FINAL PROJECTS
+#### Lesson 20: PRESENTATIONS

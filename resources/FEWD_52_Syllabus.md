@@ -76,6 +76,8 @@ Learning Objectives:
 Learning Objectives:
 - Practice using jQuery to manipulate the DOM
 - Practice using more complex JavaScript data structures
+- Use `this` & `event` in JavaScript
+- Take advantage of Event Bubbling
 
 #### Lesson 13: Forms
 Learning Objectives:

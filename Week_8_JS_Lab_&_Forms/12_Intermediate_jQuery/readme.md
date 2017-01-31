@@ -175,7 +175,7 @@ In all cases, note that if you don't need to use the _event_ argument, you don't
 
 In order to stay on the topic of event listeners, we'll write the code to insert a home a bit later.
 
-#### Event Delegation - Intro (10 mins)
+#### Event Delegation - Intro
 
 _Event delegation_ allows us to attach a single event listener to an element that will fire for all descendants matching a selector, whether those descendants exist now or are added in the future.
 
@@ -228,7 +228,7 @@ function removeHome() {
 ```
 Much better!
 
-## Traversing the DOM - Demo (5 mins)
+## Traversing the DOM - Demo
 
 jQuery has [several methods to traverse the DOM](https://api.jquery.com/category/traversing/). However, to complete the next exercise, we need to know about the `children()` method.
 
@@ -243,7 +243,7 @@ cells.eq(4).css('color', 'green');
 ```
 Note that the `children()` method can be passed in an additional selector string for further filtering.
 
-## Add New Homes - Independent Practice (15 mins)
+## Add New Homes - Independent Practice
 
 Now for what would appear to be our biggest challenge. However, you've already seen everything you need to make this happen! jQuery's there for you.
 
@@ -268,7 +268,7 @@ var newHomes = [
 - Add a button, that when clicked, restore all previously removed homes and appends them to the bottom of the table.
   - Hint: Take a look at the "Removing Elements" section in [these docs](http://learn.jquery.com/using-jquery-core/manipulating-elements/).
 
-## Conclusion (5 mins)
+## Conclusion
 
 - Describe how the event delegation syntax differs from the standard syntax.
 - Explain how to ensure your jQuery doesn't run until after the DOM loads in the browser.

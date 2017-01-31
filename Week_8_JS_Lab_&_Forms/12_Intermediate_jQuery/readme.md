@@ -73,41 +73,18 @@ We are going to display a list homes for sell in Lake Arrowhead. Here's some HTM
 </body>
 ```
 
-#### Ensuring that the DOM is Ready
-
-Since our script is in the `<head>`, it will be parsed before the DOM. If our code references any DOM elements, and since this is a jQuery lesson it most certainly will, we need to delay our code's execution until the DOM is built by the browser:
-
-```js
-$(document).ready(function() {
-	alert("Everything is ready, let's do this");
-});
-
-// or, the shortcut version
-$(function(){
-	alert("Everything is ready, let's do this");
-});
-```
-
-We're all set to get started. In Sublime, right-click anywhere on `index.html` in the editor and select `Open in Browser`.
-
-Your page should load and the alert appear.
-
-## Adding & Removing Classes - Demo (5 mins)
+## Adding & Removing Classes - Demo
 
 It looks like our designer styled our _Add Home_ button with Bootstrap's `btn-danger` class making it red. We may be code junkies, but even we know that the button should probably be a color other than red - let's make it green instead.
 
 Change the button from red to green by removing the `btn-danger` class and adding the `btn-success` class with jQuery:
 
 ```js
-$(function() {
-
     $('#addHome').removeClass('btn-danger').addClass('btn-success');
-
-});
 ```
 That's better!
 
-## Add and Remove Classes - Independent Practice (5 mins)
+## Add and Remove Classes - Independent Practice
 
 Your turn! Add a class named "text-center" to the `<h1>` tag.
 
@@ -162,12 +139,12 @@ Nice!
 
 We also can use the `removeAttr()` method to remove an attribute.
 
-## Find the value of an attribute - Independent Practice (5 mins)
+## Find the value of an attribute - Independent Practice
 
 How do you think we would retrieve the value of an attribute?  Pair up, get on the web and find out, and then, `console.log` the value of the link's `href` attribute.
 
 
-## Adding Event Listeners - Codealong (10 mins)
+## Adding Event Listeners - Codealong
 
 When our shiny green _Add Home_ button is clicked, we want to add one of the homes from an array that we will preloaded with a few homes.
 
@@ -224,7 +201,7 @@ function removeHome() {
 
 > Note: Discuss the differences about the way we used the `on()` method that made it perform event delegation?
 
-## More DOM practice - Codealong (5 mins)
+## More DOM practice - Codealong
 
 ### Removing Elements
 

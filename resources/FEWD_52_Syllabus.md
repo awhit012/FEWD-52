@@ -91,8 +91,9 @@ Learning Objectives:
 - Familiarity with how animations and transitions can be used in CSS
 - Understand how animation can be controlled using JS
 
-#### Lesson 15: FINAL PROJECT LAB
+#### Lesson 15: Bootstrap JS + FINAL PROJECT LAB
 Learning Objectives:
+- Learn how to set up Bootstrap JS
 - In-class time to work on final project.
 
 ## Week 10: ADVANCED CONCEPTS 1

@@ -155,12 +155,12 @@ jQuery has several ways to add event listeners. We will look at a couple of them
 Here is a straight forward way to add an event listener to our _Add Home_ button:
 
 ```js
-$('#addHome').click(function(evt){
-	console.log(evt);
+$('#addHome').click(function(event){
+	console.log(event);
 	console.log(this);
 });
 ```
-Refresh the page and open the console to see what the `evt` argument (jQuery's _event_ object) passed in by jQuery looks like and what `this` is set to.
+Refresh the page and open the console to see what the `event` argument (jQuery's _event_ object) passed in by jQuery looks like and what `this` is set to.
 
 jQuery's _event_ object can come in handy, especially when listening to mouse events. It is this object for example that would make writing a drawing or paint application possible.
 

@@ -16,46 +16,13 @@
 - Write simple jQuery to manipulate the DOM
 - Read this: [Manipulating Elements - jQuery Learning Center](http://learn.jquery.com/using-jquery-core/manipulating-elements/)
 
-## Page Setup - Codealong (10 mins)
-
-#### Create Folder and Files
-
-Welcome back to jQuery!  Since we've had a proper introduction, let's start building and setup our own `index.html` page and `app.js` file. With Terminal in your working directory where you keep your code:
-
-```bash
-mkdir first_jquery
-cd first_jquery
-touch index.html
-mkdir js
-touch js/app.js
-subl .
-```
-
-#### Boilerplate
-
-Create your HTML boilerplate using [Emmet](http://emmet.io/)). Include the jQuery library from the CDN and your `app.js` after it.  We'll also include the CDN of something called Bootstrap, a CSS framework that we will learn more about later, but for now, think of it as a whole bunch of CSS prewritten for us that we can use by calling it.  It's helpful now because it will make our simple demo easier on the eyes:
-
-> Note: You might want to quickly show them Bootstrap's interface and a sample of the code that's available.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Welcome Back to jQuery</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <script src="https//code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="js/app.js"></script>
-</head>
-<body>
-
-</body>
-</html>
-```
+## Page Setup
 
 #### Starting HTML
 
-We are going to display a list homes for sell in Lake Arrowhead. Here's some HTML to get us started - replace the existing `<body>` tags with the following:
+We've got some starter code to work with that sets us up with jQuery, Bootstrap and our app.js file.
+
+We are going to display a list homes for sell in Lake Arrowhead. Here's some HTML to get us started - add the container class to body, and add the rest of this code to the  `<body>` tags
 ```html
 <body class="container">
 
@@ -101,7 +68,8 @@ We are going to display a list homes for sell in Lake Arrowhead. Here's some HTM
     </table>
 	<br>
     <button id="addHome" class="btn btn-danger">Add Home</button>
-
+    <script src="https//code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="js/app.js"></script>
 </body>
 ```
 

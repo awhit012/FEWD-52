@@ -97,18 +97,18 @@ Learning Objectives:
 - In-class time to work on final project.
 
 ## Week 10: ADVANCED CONCEPTS 1
-#### Lesson 16: TODO LIST LAB
-- Bringing together concepts of DOM manipulation and forms you will
-- build a functioning todo list app
+#### Lesson 16: AJAX & APIS
+- Use $.ajax to GET data from OMDB API
+- Use jQuery to display that data on the page
 
 #### Lesson 17: FINAL PROJECT LAB
 Learning Objectives:
 - In-class time to work on final project.
 
 ## Week 11: ADVANCED CONCEPTS 2
-#### Lesson 18: AJAX & APIS
-- Use $.ajax to GET data from OMDB API
-- Use jQuery to display that data on the page
+#### Lesson 18: TODO LIST LAB
+- Bringing together concepts of DOM manipulation and forms you will
+- build a functioning todo list app
 
 #### Lesson 19: FINAL PROJECT LAB
 Learning Objectives:

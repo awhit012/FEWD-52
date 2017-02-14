@@ -21,13 +21,14 @@ function putResults(resultsArray) {
 	})
 }
 
+// BASICS BELOW: TWO WAYS TO DO THE SAME THING
 
 // var url = "http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC";
-
+// Short Hand .get
 // $.get(url, function(response) {
 // 	console.log(response);
 // })
-
+// Long Hand .ajax
 // $.ajax({
 // 	method: 'GET',
 // 	url: url,

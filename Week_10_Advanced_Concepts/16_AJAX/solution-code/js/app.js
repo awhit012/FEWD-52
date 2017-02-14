@@ -4,30 +4,31 @@ var api_key = "&api_key=dc6zaTOxFJmzC";
 $('form').submit(function(event) {
 	event.preventDefault();
 	var search_string = $('input').val();
+	clearImgs();
+	getMovie(search_string);
 	getGifs(search_string);
 });
+
+function clearImgs() {
+	$('#gif').attr('src', '');
+	$('#movie').attr('src', '');
+}
+
 
 function getGifs(search_string) {
 	$.get(base_url + search_string + api_key, function(response){
 		var gif_url = response.data[0].images.original.url;
-		$('img').attr('src', gif_url);
-		putResults(response.data)
+		$('#gif').attr('src', gif_url);
 	});
-}
-
-function putResults(resultsArray) {
-	resultsArray.forEach(function(element) {
-		console.log(element);
-	})
 }
 
 // BASICS BELOW: TWO WAYS TO DO THE SAME THING
 
-// var url = "http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=dc6zaTOxFJmzC";
 // Short Hand .get
 // $.get(url, function(response) {
 // 	console.log(response);
 // })
+
 // Long Hand .ajax
 // $.ajax({
 // 	method: 'GET',
@@ -36,3 +37,15 @@ function putResults(resultsArray) {
 // 		console.log(response);
 // 	}
 // });
+
+
+
+var omdb_url = "http://www.omdbapi.com/?t=";
+
+
+function getMovie(search_string) {
+	$.get(omdb_url + search_string, function(response){
+		var poster_url = response.Poster;
+		$('#movie').attr('src', poster_url);
+	});
+}

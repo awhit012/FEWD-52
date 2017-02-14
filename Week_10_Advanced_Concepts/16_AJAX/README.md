@@ -17,7 +17,7 @@
 - Live code pulling data from the Giphy API and displaying it on the page
 
 ### OMDB - Your Turn
-- Take it step by step:
+#### Take it step by step:
 1. Figure out the URL you need to get the correct data
 2. Test it by putting it directly in the browser bar
 3. Write your AJAX code

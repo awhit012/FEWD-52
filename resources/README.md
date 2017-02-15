@@ -51,3 +51,25 @@
 5. [JavaScript Array Includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 6. [jQuery each](http://api.jquery.com/jquery.each/)
 7. [arguments.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments/length)
+
+## Week 7
+
+## Week 8
+1. [HTML Form docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+
+## Week 9
+1. [jQuery .animate()](http://api.jquery.com/animate/)
+2. [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+3. [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+4. [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+
+## Week 10 
+1. [AJAX Explained in detail](http://stackoverflow.com/questions/22963610/ajax-explained-in-detail)
+2. [JSON Explained](http://stackoverflow.com/questions/1695883/what-is-json-can-you-explain-it-to-a-newbie)
+3. [You Might Not Need jQuery](http://youmightnotneedjquery.com)
+
+
+## Continuing to grow:
+1. [Udacity](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) is a great education platform. You can take most of the courses for free or pay to earn a 'nanodegree'. Not sure if paying is worth it, I've taken many of their courses all for free. 
+2. [Typing.io, typing practice for programmers](https://typing.io/)
+

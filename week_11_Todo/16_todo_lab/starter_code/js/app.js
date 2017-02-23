@@ -10,3 +10,13 @@ console.log('app.js linked', $)
 // Step 2:
 // create a button to delete each item
 // create an event listener that deletes the item from the list
+
+
+// var form = document.getElementById('form')
+
+$('#form').submit( function() {
+  event.preventDefault();
+  var input = $('input').val();
+  var li = "<li class='list-group-item'>" + input + "<button class='btn btn-danger pull-right'>X</button></li>"
+  $('ul').append(li);
+})

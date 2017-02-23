@@ -23,5 +23,15 @@
 
 [Get a custom domain with for your GitHub Pages site](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 
+##### To update your local changes on Github Pages:
+- navigate into your repo (project) folder:
+  - `cd ~/Desktop/**path-to-your-folder**/yourusername.github.io`
+- add your changes to be commited:
+  - `git add -A`
+- commit your changes (a commit is like a super-save) and add a message
+  - `git commit -m 'your message here'`
+- push your changes to GitHub
+  - `git push`
+
 ## Demo
 Let's do it together!
